@@ -141,6 +141,11 @@ justify-content: center;
     text-decoration: none;
 }
 
+.cabecalho_textos_link:hover{
+
+    color: blueviolet;
+}
+
 @media(max-width: 1200px){
 
     .cabecalho{
